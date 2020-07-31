@@ -1,0 +1,17 @@
+.note_text{
+    font-size: 1.2rem;
+    margin-left: 15px;
+}
+.notesContainerBlk{
+    margin-left:5px;
+     margin-top:5px;
+}
+#noteSection{
+transition: transform 450ms;
+margin-top:15px;
+}
+
+#noteSection:hover{
+    transform:scale(1.02);
+
+}
